@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.apzumi</groupId>
 	<artifactId>rest</artifactId>
-	<version>1.0-product</version>
+	<version>1.0.0-product</version>
 	<name>rest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
